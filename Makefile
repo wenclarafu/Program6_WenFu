@@ -17,7 +17,7 @@ PROJECTNAME = Program6
 
 EXECFILE = cdkexample
 
-OBJS = example1.o
+OBJS = cdkexample.o
 
 
 all: $(EXECFILE)
